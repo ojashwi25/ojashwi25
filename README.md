@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @ojashwi25
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript and php
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ojashwisthakuri@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: i can sing
 
 <!---
