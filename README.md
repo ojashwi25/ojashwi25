@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ojashwi25
 - 🌱 I’m currently learning javascript and php
 - 📫 How to reach me ojashwisthakuri@gmail.com
-- ⚡ Fun fact: i can sing
+
 
 <!---
 ojashwi25/ojashwi25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
