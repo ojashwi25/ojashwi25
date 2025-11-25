@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ojashwi25
-- 🌱 I’m currently learning javascript and php
+- 🌱 I’m currently learning javascript and react
 - 📫 How to reach me ojashwisthakuri@gmail.com
 
 
